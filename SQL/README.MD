@@ -11,7 +11,7 @@
 
  - **Total Enrolled**
 
-    ![Query Output](./images/age_young_old.png)
+    ![Query Output](./images/enrolled_count.png)
 
 
 - **Median Age**
