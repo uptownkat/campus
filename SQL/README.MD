@@ -13,7 +13,16 @@
 
 ![Query Output](./images/total_enrolled.png)
 
-- **Median Age
+
+- **Median Age**
 
 ![Query Output](./images/demo_age_avg.png)
+
+- **Age Range **
+
+![Query Output](./images/demo_age_min_max.png)
+
+- **Race Breakdown**
+
+![Query Output](./images/demo_age_min_max.png)
 
