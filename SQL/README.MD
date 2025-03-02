@@ -4,7 +4,7 @@
 
 ### 🔹 SQL Queries (MS SQL Server)
 
-- [Demographic Profile Queries](/demographic_profile.sql)
+- [Demographic Profile Queries](/SQL/demographic_profile.sql)
 
 
 ### Results 
