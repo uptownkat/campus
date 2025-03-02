@@ -1,16 +1,16 @@
  
 
-## Demographic Profile - Enrolled Students - (MS SQL Server)
+# Demographic Profile - Enrolled Students - (MS SQL Server)
 
-### 🔹 SQL Queries 
+## 🔹 SQL Queries 
 
 - [Time frame](/SQL/enrolled_analysis.sql)
 - [Demographic Profile Queries](/SQL/enrolled_demo_profile.sql)
 
 
-### 🔹  Query Results  
+## 🔹 Query Results  
 
-** Timeframe of Enrollment **
+### Timeframe of Enrollment 
 
 - The dataset contains 911 students enrolled in Campus and focuses primarily for year 2024. Over 99% of students actively enrolled during 2024, vs 2025.
 
