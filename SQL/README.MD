@@ -16,6 +16,7 @@
 
  - **Median Age**
 
+
     ![Query Output](./images/age_avg.png)
 
 
@@ -43,7 +44,7 @@
 
 - *Hispanic**
 
-    ![Query Output](./images/en_hisp_prec.png)
+    ![Query Output](./images/en_hisp_precent.png)
 
 
     ![Query Output](./images/en_hispanic.png)
@@ -78,7 +79,7 @@
     ![Query Output](./images/en_vet_status.png)
 
 
-    ![Query Output](./images/en_perc_vet_.png)
+    ![Query Output](./images/en_perc_vet.png)
 
 
 
