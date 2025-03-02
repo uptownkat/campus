@@ -10,13 +10,26 @@
 
 ### 🔹  Results 
 
- - **911 Total Enrolled Students**
+ - **911 Timeframe of Enrollment **
+
+Enrolled Students
+
+The dataset contains 911 students enrolled in Campus and focuses primarily for year 2024. Over 99% of students actively enrolled during 2024, vs 2025.
+
+
+The most recent date of enrollment was February 11, 2025, while the earliest was one year prior in February 16, 2024.
+
+
+The majority of students enrolled in August and September, while a smaller percentage applied earlier in the early and later in the fall/winter.
+
+    ![Query Output](./images/en_date_year.png)
 
     ![Query Output](./images/enrolled_count.png)
 
- - **Timeframe of Student Enrollment : 2024, 2025**
 
-    ![Query Output](./images/en_date_year .png)
+ 
+
+  
 
     ![Query Output](./images/en_date_range_enroll.png)
 
