@@ -4,7 +4,7 @@
 
 ### 🔹 SQL Queries 
 
-- [Demographic Profile Queries](/SQL/demographic_profile.sql)
+- [Demographic Profile Queries](/SQL/enrolled_demo_profile.sql)
 
 
 ### 🔹  Results 
