@@ -9,6 +9,6 @@
 
 ### Results 
 
-- Total Enrolled Students
+ - Total Enrolled
 
-(/images/total_enrolled.png)
+![Query Output](./images/total_enrolled.png)
