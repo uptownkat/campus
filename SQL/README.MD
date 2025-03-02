@@ -9,12 +9,12 @@
 
 ### 🔹  Results 
 
- - **Total Enrolled**
+ - **911 Total Enrolled Students**
 
     ![Query Output](./images/enrolled_count.png)
 
 
- - **Median Age**
+ - **Median Age = 29 Years**
 
 
     ![Query Output](./images/age_avg.png)
