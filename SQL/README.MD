@@ -8,19 +8,17 @@
 - [Demographic Profile Queries](/SQL/enrolled_demo_profile.sql)
 
 
-### 🔹  Results 
+### 🔹  Query Results  
 
- - **911 Timeframe of Enrollment **
+** Timeframe of Enrollment **
 
-Enrolled Students
-
-The dataset contains 911 students enrolled in Campus and focuses primarily for year 2024. Over 99% of students actively enrolled during 2024, vs 2025.
+- The dataset contains 911 students enrolled in Campus and focuses primarily for year 2024. Over 99% of students actively enrolled during 2024, vs 2025.
 
 
-The most recent date of enrollment was February 11, 2025, while the earliest was one year prior in February 16, 2024.
+- The most recent date of enrollment was February 11, 2025, while the earliest was one year prior in February 16, 2024.
 
 
-The majority of students enrolled in August and September, while a smaller percentage applied earlier in the early and later in the fall/winter.
+- The majority of students enrolled in August and September, while a smaller percentage applied earlier in the early and later in the fall/winter.
 
     ![Query Output](./images/en_date_year.png)
 
