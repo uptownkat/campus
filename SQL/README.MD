@@ -1,8 +1,8 @@
 
 
-## Demographic Profile - Enrolled Students
+## Demographic Profile - Enrolled Students - (MS SQL Server)
 
-### 🔹 SQL Queries (MS SQL Server)
+### 🔹 SQL Queries 
 
 - [Demographic Profile Queries](/SQL/demographic_profile.sql)
 
