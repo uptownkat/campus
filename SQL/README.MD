@@ -7,8 +7,8 @@
 - [Demographic Profile Queries](/SQL/demographic_profile.sql)
 
 
-### Results 
+### 🔹  Results 
 
- - Total Enrolled
+ - **Total Enrolled**
 
 ![Query Output](./images/total_enrolled.png)
