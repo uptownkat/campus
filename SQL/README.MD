@@ -16,7 +16,7 @@
 
 - **Median Age**
 
-![Query Output](./images/demo_age_avg.png)
+![Query Output](./images/age_avg.png)
 
 - **Age Range **
 
