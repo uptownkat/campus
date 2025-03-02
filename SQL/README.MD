@@ -10,6 +10,18 @@
 
 ### 🔹  Results 
 
+ - **Timeframe of Student Enrollment : 2024, 2025**
+
+    ![Query Output](./images/en_date_year .png)
+
+    ![Query Output](./images/en_date_range_enroll.png)
+
+
+
+ - **Median Age = 29 Years**
+
+
+
  - **911 Total Enrolled Students**
 
     ![Query Output](./images/enrolled_count.png)
