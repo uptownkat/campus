@@ -18,6 +18,8 @@ FROM enrolled
 SELECT COUNT(*) as total_enrolled
 FROM enrolled
 
+SQL/query_total enrolled.png
+	
 --Breakdown gender
 
 SELECT 
