@@ -10,7 +10,7 @@
 
 ## 🔹 Query Results  
 
-### Timeframe of Enrollment 
+ ### Timeframe of Enrollment 
 
 - The dataset contains 911 students enrolled in Campus and focuses primarily for year 2024. Over 99% of students actively enrolled during 2024, vs 2025.
 
@@ -20,55 +20,56 @@
 
 - The majority of students enrolled in August and September, while a smaller percentage applied earlier in the early and later in the fall/winter.
 
+   
     ![Query Output](./images/en_date_year.png)
 
     ![Query Output](./images/enrolled_count.png)
 
 
+
+  ### Age
+
+- bullet points
+
  
-
-  
-
-    ![Query Output](./images/en_date_range_enroll.png)
-
-    ![Query Output](./images/en_date_range_enroll.png)
-
-
- - **Median Age = 29 Years**
-
+ 
     ![Query Output](./images/age_avg.png)
 
  
-
- - **Median Age = 29 Years**
-
-
-    ![Query Output](./images/age_avg.png)
+ 
 
 
-
- - **Age Range **
-
-
-   ![Query Output](./images/age_young_old.png)
+     ![Query Output](./images/age_avg.png)
 
 
 
- - **Gender**
+ 
+
+
+     ![Query Output](./images/age_young_old.png)
+
+  ### Gender
+
+- bullet points
+
+
 
 
     ![Query Output](./images/en_gender.png) 
 
 
  
- - **Race**
+  ### Race
+
+- bullet points
+
 
 
     ![Query Output](./images/en_race_breakdown.png)
 
 
 
-- *Hispanic**
+- Hispanic 
 
     ![Query Output](./images/en_hisp_precent.png)
 
@@ -77,7 +78,14 @@
 
 
 
-- **Geographics**
+  ### Geography
+
+- bullet points
+
+
+- bullet points 
+
+
 
     ![Query Output](./images/en_states_students.png)
 
@@ -95,12 +103,16 @@
 
 
 
-- **Education**
+  ### Education
+
+- bullet points
 
     ![Query Output](./images/en_education_history.png)
 
 
-- **Veteran Status**
+  ### Veteran Status
+
+- bullet points
 
     ![Query Output](./images/en_vet_status.png)
 
