@@ -1,6 +1,6 @@
  
 
-# Demographic Profile - Enrolled Students - (MS SQL Server)
+## Demographic Profile - Enrolled Students - (MS SQL Server)
 
 ## 🔹 SQL Queries 
 
