@@ -12,16 +12,16 @@
 
  ### Timeframe of Enrollment 
 
-The dataset includes 911 students enrolled at Campus, with 99% enrolling in 2024 and the remainder starting in 2025.
+- The dataset includes 911 students enrolled at Campus, with 99% enrolling in 2024 and the remainder starting in 2025.
 
 
-Enrollment dates range from February 16, 2024, to February 11, 2025.
+- Enrollment dates range from February 16, 2024, to February 11, 2025.
 
 
-The majority of students enrolled in August and September, while a smaller percentage applied earlier in the early and later in the fall/winter.
+- The majority of students enrolled in August and September, while a smaller percentage applied earlier in the early and later in the fall/winter.
 
 
- - <sub><sup>Total Students Who Enrolled</sup></sub>
+ - <sup>Total Students Who Enrolled</sup>
 
     ![Query Output](./images/enrolled_count.png)   
 
