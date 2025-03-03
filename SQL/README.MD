@@ -72,7 +72,7 @@
 
 
 
-    ![Query Output](./images/en_hisp_precent.png)
+    ![Query Output](./images/en_hisp_percent.png)
 
 
     ![Query Output](./images/en_hispanic.png)
