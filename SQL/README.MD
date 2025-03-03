@@ -70,7 +70,7 @@
 
 
 
-    ![Query Output](./images/en_race_breakdown.png)
+    ![Query Output](./images/en_race_hispanic.png)
 
 
 
