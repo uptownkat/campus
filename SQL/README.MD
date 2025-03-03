@@ -7,7 +7,7 @@
 - [Time frame](/SQL/enrolled_analysis.sql)
 - [Demographic Profile Queries](/SQL/enrolled_demo_profile.sql)
 
-<ins>text</ins>
+
 ## 🔹 Query Results  
 
  ### Timeframe of Enrollment 
@@ -21,12 +21,12 @@
 - The majority of students enrolled in August and September, while a smaller percentage applied earlier in the early and later in the fall/winter.
 
 
-<sup>Total Students Who Enrolled:</sup>
+<ins><sup>Total Students Who Enrolled:</sup>/ins>
 
  ![Query Output](./images/enrolled_count.png)   
 
 
-<sup>Time of Enrollment:</sup>
+<u><sup>Time of Enrollment:</sup>/<u>
 
  ![Query Output](./images/en_dates_enroll.png)
 
