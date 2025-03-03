@@ -21,11 +21,12 @@
 - The majority of students enrolled in August and September, while a smaller percentage applied earlier in the early and later in the fall/winter.
 
 
- - <sup>Total Students Who Enrolled</sup>
+       <sup>Total Students Who Enrolled:</sup>
 
     ![Query Output](./images/enrolled_count.png)   
 
- - <sub><sup>Time of Enrollment</sup></sub>
+
+       <sup>Time of Enrollment:</sup>
 
     ![Query Output](./images/en_dates_enroll.png)
 
