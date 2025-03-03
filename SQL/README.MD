@@ -66,7 +66,7 @@
 
 - 68.17% of enrolled students are female (621 students), while 31.83% are male (290 students), indicating a female-majority enrollment
 
--
+ 
 
 
 <br>
@@ -100,9 +100,13 @@
 ### Geography
 
 
-- bullet points
-
-- bullet points 
+- State Representation: Students represent 39 states, with the highest numbers from Texas (TX) and California (CA).
+- City Distribution: Over 500 cities are represented, primarily from major metropolitan areas such as Houston, Chicago, Columbus, and the Bronx.
+- Regional Breakdown:
+- South: More than 50% of enrolled students come from this region.
+- Midwest: The second-largest group of students.
+- West: Follows the Midwest in representation.
+- Northeast: The smallest regional group.
 
 <br>
 <br>
