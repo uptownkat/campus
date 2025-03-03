@@ -159,9 +159,8 @@
 ### Veteran Status 
 
 
-- bullet points
-
-<br>
+- Only 24, at 2% of students are veterans, 2 are in active duty. A few have family members related to military. The data shows that the majority of them have no veteran status.
+ 
 
 ![Query Output](./images/en_vet_status.png)
 
@@ -173,10 +172,8 @@
 ###  Economic Status
 
 
-- text
+- 100% applied for financial aid
 
-
--
 
 <br>
 
