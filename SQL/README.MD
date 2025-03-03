@@ -24,12 +24,12 @@
 <br>
 <br>
 
- ***<sup>Total Students Who Enrolled:<sup>*** 
+ 
 
  ![Query Output](./images/enrolled_count.png)   
 
 <br>
- ***<sup>Time of Enrollment:<sup>***
+ 
 
   ![Query Output](./images/en_dates_enroll.png)
 
@@ -39,9 +39,6 @@
 <br>
 <br>
 <br>
- 
-
-
 
 ### Age
 
@@ -55,19 +52,19 @@
 <br>
 <br>
 
- ***<sup>Median Age:*** 
+ 
   
   ![Query Output](./images/age_avg.png)
 
 <br>
 
- ***<sup>Age Range:<sup>*** 
+ 
 
   ![Query Output](./images/age_young_old.png)
 
 <br>
 
- ***<sup>Age Groups:<sup>*** 
+ 
 
   ![Query Output](./images/en_age_group_count.png)
 
@@ -79,8 +76,7 @@
 
 <br>
 <br>
- ***<sup>Gender Breakdown:<sup>*** 
-
+ 
  ![Query Output](./images/en_gender.png) 
 <br>
 
@@ -95,8 +91,7 @@
 
 <br>
 <br>
- ***<sup>Race Breakdown including Hispanic:<sup>*** 
-
+ 
  ![Query Output](./images/en_race_hispanic.png)
 
 <br>
@@ -116,8 +111,7 @@
 
 <br>
 <br>
- ***<sup>States Ranked by # of Enrolled Students:<sup>*** 
-
+ 
 
  ![Query Output](./images/en_states_students.png)
 
@@ -129,8 +123,7 @@
 
 <br>
 
- ***<sup>Cities Ranked by # of Enrolled Students:<sup>*** 
-
+ 
  ![Query Output](./images/en_city_students.png)
 
 <br>
@@ -139,24 +132,21 @@
 
 <br>
 
- ***<sup>Regions and Divisions of Enrolled Students:<sup>*** 
-
+ 
 
  ![Query Output](./images/en_state_regions.png)
 
 <br>
 
 
- ***<sup>Regions Breakdown by # Enrolled Students:<sup>*** 
-
+ 
 
  ![Query Output](./images/en_region_students.png)
 <br>
  ![Query Output](./images/en_region_perc.png)
 
 <br>
- ***<sup>Divisions Breakdown by # Enrolled Students:<sup>*** 
-
+ 
  ![Query Output](./images/en_division_stud.png)
 <br>
  ![Query Output](./images/en_division_perc.png)
@@ -168,8 +158,7 @@
 - bullet points
 
 <br>
- ***<sup>Education Record:<sup>*** 
-
+ 
  ![Query Output](./images/en_education_history.png)
 
 
@@ -178,7 +167,7 @@
 - bullet points
 
 <br>
- ***<Veteran Status<sup>*** 
+ 
 
 
  ![Query Output](./images/en_vet_status.png)
@@ -189,7 +178,7 @@
 ###  Economic Status
 -
 <br>
- ***<sup>Students Who Applied for Financial Aid:<sup>*** 
+ 
 
  ![Query Output](./images/en_total_fafsa.png)
 
