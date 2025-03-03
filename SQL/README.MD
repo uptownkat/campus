@@ -59,8 +59,8 @@
 
     ![Query Output](./images/en_gender.png) 
 
-
     ![Query Output](./images/en_gender_perc.png)
+     
  
   ### Race
 
