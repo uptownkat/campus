@@ -42,48 +42,39 @@
 
 ### Age
 
-<br>
-<br>
+
 - Student ages range from 18 to 71 years old, with a median age of 29, indicating a diverse age group.
+
 
 - The largest proportion of students falls within the 25-34 age range, aligning with early-to-mid career adults. 18-24-year-olds—representing traditional college-age students—form the second-largest group. Enrollment gradually declines across older age groups, with fewer students aged 45 and above.
 
- 
 <br>
 <br>
-
- 
-  
-  ![Query Output](./images/age_avg.png)
+![Query Output](./images/age_avg.png)
 
 <br>
-
- 
-
-  ![Query Output](./images/age_young_old.png)
+![Query Output](./images/age_young_old.png)
 
 <br>
+![Query Output](./images/en_age_group_count.png)
 
- 
-
-  ![Query Output](./images/en_age_group_count.png)
-
-
-
+<br>
 ### Gender 
+
 
 - 68.17% of enrolled students are female (621 students), while 31.83% are male (290 students), indicating a female-majority enrollment
 
+-
+
+
 <br>
 <br>
- 
  ![Query Output](./images/en_gender.png) 
 <br>
-
- ![Query Output](./images/en_gender_perc.png)
-     
+ ![Query Output](./images/en_gender_perc.png)     
  <br>
 ### Race
+
 
 - There is a diversity of race amongst the enrolled students. 488 define themselves as Black, 256 as White, 137 as Mixed, 14 as American Indian, 10 as Asian, and 6 as Native Hawaiian.
 
@@ -91,96 +82,80 @@
 
 <br>
 <br>
- 
  ![Query Output](./images/en_race_hispanic.png)
-
 <br>
  ![Query Output](./images/en_hisp_percent.png)
-
 <br>
  ![Query Output](./images/en_hispanic.png)
 
 
-
 ### Geography
 
-- bullet points
 
+- bullet points
 
 - bullet points 
 
 <br>
 <br>
- 
-
  ![Query Output](./images/en_states_students.png)
 
+<br>
+![Query Output](./images/en_sum_states.png)
 
 <br>
- ![Query Output](./images/en_sum_states.png)
-
-
+![Query Output](./images/en_city_students.png)
 
 <br>
-
- 
- ![Query Output](./images/en_city_students.png)
+![Query Output](./images/en_sum_cities.png)
 
 <br>
-
- ![Query Output](./images/en_sum_cities.png)
+![Query Output](./images/en_state_regions.png)
 
 <br>
 
- 
-
- ![Query Output](./images/en_state_regions.png)
-
+![Query Output](./images/en_region_students.png)
 <br>
-
-
- 
-
- ![Query Output](./images/en_region_students.png)
-<br>
- ![Query Output](./images/en_region_perc.png)
-
-<br>
- 
+![Query Output](./images/en_region_perc.png)
+<br> 
  ![Query Output](./images/en_division_stud.png)
 <br>
  ![Query Output](./images/en_division_perc.png)
-
 <br>
 
 ### Education
 
+
 - bullet points
 
+- bullet
+
 <br>
- 
- ![Query Output](./images/en_education_history.png)
+
+![Query Output](./images/en_education_history.png)
 
 
 ### Veteran Status 
 
+
 - bullet points
 
 <br>
- 
-
-
- ![Query Output](./images/en_vet_status.png)
+![Query Output](./images/en_vet_status.png)
 <br>
- ![Query Output](./images/en_perc_vet.png)
+![Query Output](./images/en_perc_vet.png)
 
 
 ###  Economic Status
--
-<br>
- 
 
- ![Query Output](./images/en_total_fafsa.png)
+
+- text
+
+
+-
+
+<br>
+![Query Output](./images/en_total_fafsa.png)
 
 
 
