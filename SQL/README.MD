@@ -38,12 +38,9 @@
 
   ### Age
 
-- bullet points
+- The average age is 29 years old. 
 
  
- 
-    ![Query Output](./images/age_avg.png)
-
  
  
 
