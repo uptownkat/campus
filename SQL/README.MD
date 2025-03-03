@@ -20,8 +20,10 @@
 
 - The majority of students enrolled in August and September, while a smaller percentage applied earlier in the early and later in the fall/winter.
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 
 
