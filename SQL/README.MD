@@ -28,8 +28,6 @@
 
  ![Query Output](./images/enrolled_count.png)   
 
-<br>
- 
 
   ![Query Output](./images/en_dates_enroll.png)
 
@@ -52,13 +50,16 @@
 <br>
 ![Query Output](./images/age_avg.png)
 
-<br>
+
 ![Query Output](./images/age_young_old.png)
 
-<br>
+
 ![Query Output](./images/en_age_group_count.png)
 
+
 <br>
+<br>
+
 ### Gender 
 
 
@@ -70,9 +71,13 @@
 <br>
 <br>
  ![Query Output](./images/en_gender.png) 
-<br>
+
  ![Query Output](./images/en_gender_perc.png)     
- <br>
+
+<br>
+<br>
+
+
 ### Race
 
 
