@@ -10,7 +10,7 @@
 
 ## Query Results  
 
-###🔸 Basic Facts  
+🔸 ### Basic Facts  
 
 - The dataset includes 911 students enrolled at Campus, with 99% enrolling in 2024 and the remainder starting in 2025.
 
@@ -42,7 +42,7 @@
 
 
 
-###🔸 Age
+🔸 ### Age
 
 - Student ages range from 18 to 71 years old, with a median age of 29, indicating a diverse age group.
 
@@ -68,7 +68,7 @@
 
 
 
-###🔸 Gender
+🔸 ### Gender
 
 - 68.17% of enrolled students are female (621 students), while 31.83% are male (290 students), indicating a female-majority enrollment
 
@@ -80,7 +80,7 @@
  ![Query Output](./images/en_gender_perc.png)
      
  
-###🔸 Race
+🔸 ### Race
 
 - There is a diversity of race amongst the enrolled students. 488 define themselves as Black, 256 as White, 137 as Mixed, 14 as American Indian, 10 as Asian, and 6 as Native Hawaiian.
 
@@ -101,7 +101,7 @@
 
 
 
- ###🔸 Geography
+🔸 ### Geography
 
 - bullet points
 
@@ -156,7 +156,7 @@
 
 
 
-###🔸 Education
+🔸 ### Education
 
 - bullet points
 
@@ -166,7 +166,7 @@
  ![Query Output](./images/en_education_history.png)
 
 
-###🔸 Veteran Status
+🔸 ### Veteran Status
 
 - bullet points
 
@@ -179,7 +179,7 @@
  ![Query Output](./images/en_perc_vet.png)
 
 
-###🔸 Economic Status
+🔸 ### Economic Status
 
 
  ***<sup>Students Who Applied for Financial Aid:<sup>*** 
