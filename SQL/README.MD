@@ -48,6 +48,7 @@
 
 <br>
 <br>
+
 ![Query Output](./images/age_avg.png)
 
 
@@ -70,6 +71,7 @@
 
 <br>
 <br>
+
  ![Query Output](./images/en_gender.png) 
 
  ![Query Output](./images/en_gender_perc.png)     
@@ -87,10 +89,11 @@
 
 <br>
 <br>
+
  ![Query Output](./images/en_race_hispanic.png)
-<br>
+
  ![Query Output](./images/en_hisp_percent.png)
-<br>
+
  ![Query Output](./images/en_hispanic.png)
 
 
@@ -103,29 +106,33 @@
 
 <br>
 <br>
+
  ![Query Output](./images/en_states_students.png)
 
-<br>
+
 ![Query Output](./images/en_sum_states.png)
 
-<br>
+
 ![Query Output](./images/en_city_students.png)
 
-<br>
-![Query Output](./images/en_sum_cities.png)
 
-<br>
+![Query Output](./images/en_sum_cities.png)
+ 
 ![Query Output](./images/en_state_regions.png)
 
-<br>
 
 ![Query Output](./images/en_region_students.png)
-<br>
+
+
 ![Query Output](./images/en_region_perc.png)
-<br> 
+
+
  ![Query Output](./images/en_division_stud.png)
-<br>
+
+
  ![Query Output](./images/en_division_perc.png)
+
+<br>
 <br>
 
 ### Education
@@ -146,8 +153,11 @@
 - bullet points
 
 <br>
+
 ![Query Output](./images/en_vet_status.png)
+
 <br>
+
 ![Query Output](./images/en_perc_vet.png)
 
 
