@@ -49,10 +49,11 @@
 
 
 
- 
-
-
      ![Query Output](./images/age_young_old.png)
+
+    ![Query Output](./images/en_age_group_count.png)
+
+
 
   ### Gender
 
@@ -64,6 +65,7 @@
     ![Query Output](./images/en_gender.png) 
 
 
+    ![Query Output](./images/en_gender_perc.png) 
  
   ### Race
 
