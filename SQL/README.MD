@@ -171,11 +171,8 @@
 
 ###  Economic Status
 
-
 - 100% applied for financial aid
 
-
-<br>
 
 ![Query Output](./images/en_total_fafsa.png)
 
