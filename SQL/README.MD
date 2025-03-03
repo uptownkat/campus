@@ -21,6 +21,9 @@
 - The majority of students enrolled in August and September, while a smaller percentage applied earlier in the early and later in the fall/winter.
 
 
+
+
+
  **<sup>Total Students Who Enrolled:</sup>** 
 
  ![Query Output](./images/enrolled_count.png)   
@@ -28,10 +31,10 @@
 
  **<sup>Time of Enrollment:</sup>**
 
- ![Query Output](./images/en_dates_enroll.png)
+  ![Query Output](./images/en_dates_enroll.png)
 
 
- ![Query Output](./images/en_dates_month.png)
+  ![Query Output](./images/en_dates_month.png)
 
 
  
@@ -45,12 +48,22 @@
 - The largest proportion of students falls within the 25-34 age range, aligning with early-to-mid career adults. 18-24-year-olds—representing traditional college-age students—form the second-largest group. Enrollment gradually declines across older age groups, with fewer students aged 45 and above.
 
  
- 
-     ![Query Output](./images/age_avg.png)
 
-     ![Query Output](./images/age_young_old.png)
 
-     ![Query Output](./images/en_age_group_count.png)
+ **<sup>Median Age:</sup>** 
+  
+  ![Query Output](./images/age_avg.png)
+
+
+ **<sup>Age Range:</sup>** 
+
+
+  ![Query Output](./images/age_young_old.png)
+
+
+ **<sup>Age Groups:</sup>** 
+
+  ![Query Output](./images/en_age_group_count.png)
 
 
 
