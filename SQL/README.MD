@@ -24,6 +24,8 @@
 
 
 
+
+
  ***<sup>Total Students Who Enrolled:<sup>*** 
 
  ![Query Output](./images/enrolled_count.png)   
