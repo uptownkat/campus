@@ -151,9 +151,9 @@
 
  ***<sup>Divisions Breakdown by # Enrolled Students:<sup>*** 
 
-    ![Query Output](./images/en_division_stud.png)
+ ![Query Output](./images/en_division_stud.png)
 
-    ![Query Output](./images/en_division_perc.png)
+ ![Query Output](./images/en_division_perc.png)
 
 
 
@@ -164,7 +164,7 @@
 
  ***<sup>Education Record:<sup>*** 
 
-    ![Query Output](./images/en_education_history.png)
+ ![Query Output](./images/en_education_history.png)
 
 
   ### Veteran Status
@@ -175,10 +175,9 @@
  ***<Veteran Status<sup>*** 
 
 
-    ![Query Output](./images/en_vet_status.png)
+ ![Query Output](./images/en_vet_status.png)
 
-
-    ![Query Output](./images/en_perc_vet.png)
+ ![Query Output](./images/en_perc_vet.png)
 
 
 ### Economic Status
@@ -186,7 +185,7 @@
 
  ***<sup>Students Who Applied for Financial Aid:<sup>*** 
 
-    ![Query Output](./images/en_total_fafsa.png)
+ ![Query Output](./images/en_total_fafsa.png)
 
 
 
