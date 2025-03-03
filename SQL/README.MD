@@ -110,6 +110,14 @@
 
     ![Query Output](./images/en_region_students.png)
 
+    ![Query Output](./images/en_region_perc.png)
+
+
+    ![Query Output](./images/en_division_stud.png)
+
+    ![Query Output](./images/en_division_perc.png)
+
+
 
   ### Education
 
