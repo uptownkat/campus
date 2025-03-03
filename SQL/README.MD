@@ -38,7 +38,9 @@
 
   ### Age
 
-- The average age is 29 years old. 
+- Student ages range from 18 to 71 years old, with a median age of 29, indicating a diverse age group.
+
+- The largest proportion of students falls within the 25-34 age range, aligning with early-to-mid career adults. 18-24-year-olds—representing traditional college-age students—form the second-largest group. Enrollment gradually declines across older age groups, with fewer students aged 45 and above.
 
  
  
