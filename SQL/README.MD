@@ -42,16 +42,11 @@
 
  
  
- 
-
-
      ![Query Output](./images/age_avg.png)
-
-
 
      ![Query Output](./images/age_young_old.png)
 
-    ![Query Output](./images/en_age_group_count.png)
+     ![Query Output](./images/en_age_group_count.png)
 
 
 
