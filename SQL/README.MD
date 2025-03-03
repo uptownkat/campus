@@ -66,7 +66,9 @@
  
   ### Race
 
-- bullet points
+- There is a diversity of race amongst the enrolled students. 488 define themselves as Black, 256 as White, 137 as Mixed, 14 as American Indian, 10 as Asian, and 6 as Native Hawaiian.
+
+- 160 students (17.6% of total enrollment) identify as Hispanic. Amongst them are 27 Black, 59 White, 65 Mixed, 5 American Indian, and 4 Native Hawaiian individuals, representing a mixed race population.
 
 
 
