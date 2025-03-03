@@ -106,6 +106,9 @@
 
     ![Query Output](./images/en_sum_cities.png)
 
+    ![Query Output](./images/en_state_regions.png)
+
+    ![Query Output](./images/en_region_students.png)
 
 
   ### Education
@@ -124,6 +127,10 @@
 
     ![Query Output](./images/en_perc_vet.png)
 
+
+### Economic Status
+
+    ![Query Output](./images/en_total_fafsa.png)
 
 
 
