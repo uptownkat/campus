@@ -76,9 +76,9 @@
 
  ***<sup>Gender Breakdown:<sup>*** 
 
-    ![Query Output](./images/en_gender.png) 
+ ![Query Output](./images/en_gender.png) 
 
-    ![Query Output](./images/en_gender_perc.png)
+ ![Query Output](./images/en_gender_perc.png)
      
  
   ### Race
@@ -91,15 +91,14 @@
 
  ***<sup>Race Breakdown including Hispanic:<sup>*** 
 
-    ![Query Output](./images/en_race_hispanic.png)
+ ![Query Output](./images/en_race_hispanic.png)
+
+
+ ![Query Output](./images/en_hisp_percent.png)
 
 
 
-    ![Query Output](./images/en_hisp_percent.png)
-
-
-
-    ![Query Output](./images/en_hispanic.png)
+ ![Query Output](./images/en_hispanic.png)
 
 
 
@@ -114,11 +113,11 @@
  ***<sup>States Ranked by # of Enrolled Students:<sup>*** 
 
 
-    ![Query Output](./images/en_states_students.png)
+ ![Query Output](./images/en_states_students.png)
 
 
 
-    ![Query Output](./images/en_sum_states.png)
+ ![Query Output](./images/en_sum_states.png)
 
 
 
@@ -126,18 +125,18 @@
 
  ***<sup>Cities Ranked by # of Enrolled Students:<sup>*** 
 
-    ![Query Output](./images/en_city_students.png)
+ ![Query Output](./images/en_city_students.png)
 
 
 
-    ![Query Output](./images/en_sum_cities.png)
+ ![Query Output](./images/en_sum_cities.png)
 
 
 
  ***<sup>Regions and Divisions of Enrolled Students:<sup>*** 
 
 
-    ![Query Output](./images/en_state_regions.png)
+ ![Query Output](./images/en_state_regions.png)
 
 
 
@@ -145,9 +144,9 @@
  ***<sup>Regions Breakdown by # Enrolled Students:<sup>*** 
 
 
-    ![Query Output](./images/en_region_students.png)
+ ![Query Output](./images/en_region_students.png)
 
-    ![Query Output](./images/en_region_perc.png)
+ ![Query Output](./images/en_region_perc.png)
 
 
  ***<sup>Divisions Breakdown by # Enrolled Students:<sup>*** 
