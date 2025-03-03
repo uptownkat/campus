@@ -20,10 +20,16 @@
 
 - The majority of students enrolled in August and September, while a smaller percentage applied earlier in the early and later in the fall/winter.
 
-   
-    ![Query Output](./images/en_date_year.png)
+    ![Query Output](./images/enrolled_count.png)   
 
-    ![Query Output](./images/enrolled_count.png)
+
+    ![Query Output](./images/en_dates_enroll.png)
+
+
+    ![Query Output](./images/en_dates_month.png)
+
+
+ 
 
 
 
@@ -50,7 +56,7 @@
 
   ### Gender
 
-- bullet points
+- bullet points 
 
 
 
@@ -68,8 +74,6 @@
     ![Query Output](./images/en_race_breakdown.png)
 
 
-
-- Hispanic 
 
     ![Query Output](./images/en_hisp_precent.png)
 
