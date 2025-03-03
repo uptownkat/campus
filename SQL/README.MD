@@ -101,7 +101,9 @@
 
 
 - State Representation: Students represent 39 states, with the highest numbers from Texas (TX) and California (CA).
+
 - City Distribution: Over 500 cities are represented, primarily from major metropolitan areas such as Houston, Chicago, Columbus, and the Bronx.
+
 - Regional Breakdown:
     - South: More than 50% of enrolled students come from this region.
     - Midwest: The second-largest group of students.
@@ -131,10 +133,10 @@
 ![Query Output](./images/en_region_perc.png)
 
 
- ![Query Output](./images/en_division_stud.png)
+![Query Output](./images/en_division_stud.png)
 
 
- ![Query Output](./images/en_division_perc.png)
+![Query Output](./images/en_division_perc.png)
 
 <br>
 <br>
@@ -142,9 +144,12 @@
 ### Education
 
 
-- bullet points
+- High School Graduates:850 students hold a high school diploma, accounting for 93% of the total.
 
-- bullet
+- GED Holders: 61 students have a GED qualification.
+
+- College Experience: 441 students (48%) have previously enrolled in college.
+
 
 <br>
 
