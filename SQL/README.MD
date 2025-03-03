@@ -24,12 +24,12 @@
 
 
 
- **<sup>Total Students Who Enrolled:</sup>** 
+ ***Total Students Who Enrolled:*** 
 
  ![Query Output](./images/enrolled_count.png)   
 
 
- **<sup>Time of Enrollment:</sup>**
+ ***Time of Enrollment:***
 
   ![Query Output](./images/en_dates_enroll.png)
 
@@ -50,18 +50,18 @@
  
 
 
- **<sup>Median Age:</sup>** 
+ ***Median Age:*** 
   
   ![Query Output](./images/age_avg.png)
 
 
- **<sup>Age Range:</sup>** 
+ ***Age Range:*** 
 
 
   ![Query Output](./images/age_young_old.png)
 
 
- **<sup>Age Groups:</sup>** 
+ ***Age Groups:*** 
 
   ![Query Output](./images/en_age_group_count.png)
 
