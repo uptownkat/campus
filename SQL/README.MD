@@ -22,17 +22,12 @@
 
 <br>
 <br>
-<br>
-<br>
-
-
-
 
  ***<sup>Total Students Who Enrolled:<sup>*** 
 
  ![Query Output](./images/enrolled_count.png)   
 
-
+<br>
  ***<sup>Time of Enrollment:<sup>***
 
   ![Query Output](./images/en_dates_enroll.png)
@@ -40,7 +35,9 @@
 
   ![Query Output](./images/en_dates_month.png)
 
-
+<br>
+<br>
+<br>
  
 
 
