@@ -54,7 +54,7 @@
 
   ### Gender
 
-- bullet points 
+- 68.17% of enrolled students are female (621 students), while 31.83% are male (290 students), indicating a female-majority enrollment
 
 
 
