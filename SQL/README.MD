@@ -31,7 +31,7 @@
  ![Query Output](./images/enrolled_count.png)   
 
 
- ***Time of Enrollment:***
+ ***<sup>Time of Enrollment:<sup>***
 
   ![Query Output](./images/en_dates_enroll.png)
 
@@ -52,18 +52,18 @@
  
 
 
- ***Median Age:*** 
+ ***<sup>Median Age:*** 
   
   ![Query Output](./images/age_avg.png)
 
 
- ***Age Range:*** 
+ ***<sup>Age Range:<sup>*** 
 
 
   ![Query Output](./images/age_young_old.png)
 
 
- ***Age Groups:*** 
+ ***<sup>Age Groups:<sup>*** 
 
   ![Query Output](./images/en_age_group_count.png)
 
@@ -74,7 +74,7 @@
 - 68.17% of enrolled students are female (621 students), while 31.83% are male (290 students), indicating a female-majority enrollment
 
 
-
+ ***<sup>Gender Breakdown:<sup>*** 
 
     ![Query Output](./images/en_gender.png) 
 
@@ -89,11 +89,14 @@
 
 
 
+ ***<sup>Race Breakdown including Hispanic:<sup>*** 
+
     ![Query Output](./images/en_race_hispanic.png)
 
 
 
     ![Query Output](./images/en_hisp_percent.png)
+
 
 
     ![Query Output](./images/en_hispanic.png)
@@ -108,6 +111,8 @@
 - bullet points 
 
 
+ ***<sup>States Ranked by # of Enrolled Students:<sup>*** 
+
 
     ![Query Output](./images/en_states_students.png)
 
@@ -117,18 +122,35 @@
 
 
 
+
+
+ ***<sup>Cities Ranked by # of Enrolled Students:<sup>*** 
+
     ![Query Output](./images/en_city_students.png)
 
 
 
     ![Query Output](./images/en_sum_cities.png)
 
+
+
+ ***<sup>Regions and Divisions of Enrolled Students:<sup>*** 
+
+
     ![Query Output](./images/en_state_regions.png)
+
+
+
+
+ ***<sup>Regions Breakdown by # Enrolled Students:<sup>*** 
+
 
     ![Query Output](./images/en_region_students.png)
 
     ![Query Output](./images/en_region_perc.png)
 
+
+ ***<sup>Divisions Breakdown by # Enrolled Students:<sup>*** 
 
     ![Query Output](./images/en_division_stud.png)
 
@@ -140,12 +162,19 @@
 
 - bullet points
 
+
+ ***<sup>Education Record:<sup>*** 
+
     ![Query Output](./images/en_education_history.png)
 
 
   ### Veteran Status
 
 - bullet points
+
+
+ ***<Veteran Status<sup>*** 
+
 
     ![Query Output](./images/en_vet_status.png)
 
@@ -154,6 +183,9 @@
 
 
 ### Economic Status
+
+
+ ***<sup>Students Who Applied for Financial Aid:<sup>*** 
 
     ![Query Output](./images/en_total_fafsa.png)
 
