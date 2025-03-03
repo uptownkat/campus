@@ -1,4 +1,4 @@
- 
+  
 
 ## Demographic Profile - Enrolled Students - (MS SQL Server)
 
@@ -103,10 +103,10 @@
 - State Representation: Students represent 39 states, with the highest numbers from Texas (TX) and California (CA).
 - City Distribution: Over 500 cities are represented, primarily from major metropolitan areas such as Houston, Chicago, Columbus, and the Bronx.
 - Regional Breakdown:
-- South: More than 50% of enrolled students come from this region.
-- Midwest: The second-largest group of students.
-- West: Follows the Midwest in representation.
-- Northeast: The smallest regional group.
+    - South: More than 50% of enrolled students come from this region.
+    - Midwest: The second-largest group of students.
+    - West: Follows the Midwest in representation.
+    - Northeast: The smallest regional group.
 
 <br>
 <br>
