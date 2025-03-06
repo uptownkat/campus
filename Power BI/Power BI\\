@@ -1,0 +1,11 @@
+--DAX creating s
+
+Days by Stage = 
+SWITCH(
+    TRUE(),
+    SELECTEDVALUE(ProcessStages[Stage]) = "Application Submitted", AVERAGEX(enrolled, [Days to Submit]),
+    SELECTEDVALUE(ProcessStages[Stage]) = "Interview", AVERAGEX(enrolled, [Days to Interview]),
+    SELECTEDVALUE(ProcessStages[Stage]) = "Offer Letter", AVERAGEX(enrolled, [Days to Offer]),
+    SELECTEDVALUE(ProcessStages[Stage]) = "Enrollment", AVERAGEX(enrolled, [Days to Enroll]),
+    BLANK()
+)
