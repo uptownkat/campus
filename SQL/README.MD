@@ -7,8 +7,6 @@
 
 ## Query Results  
 
-### Basic Facts  
-
 
 - The dataset includes 911 students enrolled at Campus, with 99% enrolling in 2024 and the remainder starting in 2025.
 
