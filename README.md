@@ -15,7 +15,7 @@ Here I used Microsoft SQL Server for analysis. I've included all the SQL codes I
 
 [Segmentation Analysis Prospective Applicants](SQL/prospect_demo.sql)
 
-[Application Profile-Enrolled Applicants]enroll_application_profile.sql
+[Application Profile-Enrolled Applicants](SQL/enroll_application_profile.sql)
 
 [Media Engagement](/SQL/enroll_media_engage.sql)
 
