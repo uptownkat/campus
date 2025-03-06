@@ -24,4 +24,7 @@ Here I used Microsoft SQL Server for analysis. I've included all the SQL codes I
 
 [Media Engagement2](/SQL/media_engage.sql)
 
+[SQL Queries](SQL/queries_enroll_profile)
+
+
 From SQL i imported codes into Power BI
