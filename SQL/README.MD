@@ -4,9 +4,6 @@
 
 ## SQL Queries 
 
-- [Time frame](/SQL/enrolled_analysis.sql)
-- [Demographic Profile Queries](/SQL/enrolled_demo_profile.sql)
-
 
 ## Query Results  
 
