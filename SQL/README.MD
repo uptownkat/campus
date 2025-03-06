@@ -2,9 +2,6 @@
 
 ## Demographic Profile - Enrolled Students - (MS SQL Server)
 
-## SQL Queries 
-
-
 ## Query Results  
 
 
