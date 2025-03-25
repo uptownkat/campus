@@ -1,0 +1,6 @@
+SELECT REG_EFT, COUNT(REG_EFT)
+FROM DB_Salesforce
+GROUP BY REG_EFT
+
+ 
+ 
